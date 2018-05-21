@@ -7,7 +7,7 @@ This project builds a setup file, that will install a Python scripting environme
 that can communicate with Paxton Net2, using the SDK (or a direct DB connection).
 
 
-### **Read this first**
+### Read this first
 The scripts in this package are currently quite inflexible, in that they assume
 that packages are installed in particular directories. For future versions this
 should be changed to maybe an environment setting or a 'user' file containg the
@@ -24,7 +24,7 @@ The NetScripting project relies on the following:
  * Python x86 3.4.4
    - Is the Python environment
    - Download from http://www.python.org
-   - Install in C:\WinPrg\Python34\ !!!
+   - **Install in C:\WinPrg\Python34\ !!!**
  * pythonnet-2.3.0-cp34-cp34m-win32.whl
    - Is Python .net extension
    - Download from http://pythonnet.sourceforge.net
@@ -38,7 +38,7 @@ The NetScripting project relies on the following:
  * Inno Setup 5.4.2 (higher versions most likely also work)
    - To create an installer (uses the inno_script.iss)
    - Download from http://www.jrsoftware.org   
-   - Install in C:\Program Files\Inno Setup 5\ !!!
+   - **Install in C:\Program Files\Inno Setup 5\ !!!**
 
 The following convenience batch files are available:
  * run.bat
