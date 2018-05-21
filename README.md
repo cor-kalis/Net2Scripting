@@ -83,6 +83,7 @@ Runtime configuration file is: src/Net2Scripting.exe.config
 To update the version number, adjust the following files:
  * inno_script.iss
  * src/settings.py
+ * docs/README.txt
 
 ### License
 MIT
