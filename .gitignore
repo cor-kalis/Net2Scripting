@@ -1,0 +1,8 @@
+build
+dist
+dist_installer
+docs/*.html
+docs/index.htm
+*.pyc
+#*#
+*~
