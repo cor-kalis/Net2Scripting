@@ -40,7 +40,7 @@ The NetScripting project relies on the following:
    - Download from http://www.jrsoftware.org   
    - **Install in C:\Program Files\Inno Setup 5\ !!!**
 
-The following convenience batch files are available:
+The following batch files are available:
  * run.bat
    - To run de scripting tool while testing sample code
    - It will wait after execution and run again after pressing enter (ctrl C=exit)
@@ -84,6 +84,11 @@ To update the version number, adjust the following files:
  * inno_script.iss
  * src/settings.py
  * docs/README.txt
+
+### Todo
+  * Unit tests
+  * Fix hard Python & InnoSetup paths
+  * Add SDK features
 
 ### License
 MIT
