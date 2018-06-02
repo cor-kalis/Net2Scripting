@@ -1,8 +1,6 @@
-build
-dist
-dist_installer
-docs/*.html
-docs/index.htm
+/build
+/Net2Scripting.egg-info
+/dist/*.tar.gz
 *.pyc
 #*#
 *~
